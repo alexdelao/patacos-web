@@ -24,7 +24,7 @@ body {
 }
 
 .carousel-item img {
-    max-height: 500px;
+    height: 500px;
 }
 .slide{
     max-height: 600px;
