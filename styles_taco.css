@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: all 0.25s ease;
+}
+
+body {
+    min-height: 100vh;
+    min-width: 500px;
+    font-family: "Poppins", sans-serif;
+}
+
+#home {
+    background-image: url("https://img.freepik.com/fotos-premium/mensaje-advertencia-sobre-arte-hamburguesas-poco-saludables-ai_558166-650.jpg");
+    background-size: cover;
+}
+
+.titulo {
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    font-style: italic;
+}
+
+.carousel-item img {
+    max-height: 500px;
+}
+.slide{
+    max-height: 600px;
+}
+
+.fab{
+    font-size: 30px;
+}
